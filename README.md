@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&pause=1000&color=F76344&multiline=true&width=800&height=100&lines=%E2%9C%A8This+is+mgh233.;%F0%9F%94%ADI'm+currently+a+junior+student+in+BUPT%2C+Beijing%2C+China.;%F0%9F%8C%B1I'm+now+major+in+Software+Engineering.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&pause=500&color=F76344&multiline=true&width=800&height=100&lines=%E2%9C%A8This+is+mgh233.;%F0%9F%94%ADI'm+currently+a+junior+student+in+BUPT%2C+Beijing%2C+China.;%F0%9F%8C%B1I'm+now+major+in+Software+Engineering.)](https://git.io/typing-svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mgh233&theme=highcontrast&border_radius=10&card_width=1000)](https://git.io/streak-stats)
